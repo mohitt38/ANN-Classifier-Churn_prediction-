@@ -8,6 +8,12 @@ This project is an end-to-end machine learning web application built with **Tens
 
 👉 https://churnpredictionmohit.streamlit.app/
 
+
+## 📸 Screenshots
+
+![Screenshot 1](image.png)  
+![Screenshot 2](image%20copy.png)
+
 ---
 
 ## 📌 Problem Statement
@@ -63,3 +69,5 @@ Deploying ML apps using Streamlit Cloud
 Real-world classification problem handling
 
 Understanding class imbalance & model evaluation
+
+
